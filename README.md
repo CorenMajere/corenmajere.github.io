@@ -1,4 +1,4 @@
 corenmajere.github.io
 =====================
 
-GitHub Foundations course account GitHub Pages web site
+GitHub Foundations course (June 24th, 2014) account GitHub Pages web site.
